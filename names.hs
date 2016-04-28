@@ -1,3 +1,3 @@
-main =
-  let name = "Офир" in
-    putStrLn "Hello, " ++ name ++ "!"
+main = do
+  name <- getLine
+  printStrLn ("Hello, " ++ name ++ "!")

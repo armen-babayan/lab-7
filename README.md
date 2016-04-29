@@ -1,2 +1,2 @@
-# Офир Ложкин
+# armen babayan
 Какой красивый *git repository*.
